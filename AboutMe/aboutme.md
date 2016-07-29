@@ -5,7 +5,7 @@ description: About Me
 ---
  <img src="{{BASE_PATH}}/images/shanshan.jpg"
         align="left"
-        title="me" />
+        title="me" /> <br />
         
 * I like to powerlift. 
 * I like to read. 
