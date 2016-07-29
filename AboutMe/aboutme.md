@@ -3,6 +3,10 @@ layout: page
 title: About Me
 description: About Me
 ---
+ <img src="{{BASE_PATH}}/images/shanshan.jpg"
+        align="left"
+        title="me" />
+        
 * I like to powerlift. 
 * I like to read. 
   + [Haruki Murakami](http://www.harukimurakami.com)
