@@ -13,7 +13,6 @@ Fall 2016
   Mondays and Wednesdays, 3:20pm - 4:10pm <br /> 
   Classroom: West Duke 105<br /> 
   Textbook: <br /> 
-  [Course website](courses/MATH122L/2016-09.html)<br /> 
    
 <hr>
 
