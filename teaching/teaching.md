@@ -6,7 +6,7 @@ description: Teaching
 
 ## Courses
 
-**Current Teaching at Duke University**
+**Current Teaching at Duke University** <br />
 Fall 2016
    
   Math 122L: Introductory Calculus II with Applications <br /> 
@@ -16,7 +16,7 @@ Fall 2016
    
 <hr>
 
-**Previous Teaching at Duke University**
+**Previous Teaching at Duke University** <br />
  Fall 2015
     
   Math 105L: Laboratory Calculus and Functions I <br /> 
