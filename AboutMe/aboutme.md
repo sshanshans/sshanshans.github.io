@@ -3,8 +3,8 @@ layout: page
 title: About Me
 description: About Me
 ---
- <img src="{{BASE_PATH}}/images/shanshan.jpg"
-        align="left"
+ <img src="{{BASE_PATH}}/images/shanshan.jpg" width = 600
+        align="center"
         title="me" /> <br />
         
 * I like to powerlift. 
