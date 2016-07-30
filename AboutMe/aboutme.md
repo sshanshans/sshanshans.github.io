@@ -3,9 +3,8 @@ layout: page
 title: About Me
 description: About Me
 ---
- <img src="{{BASE_PATH}}/images/shanshan.jpg" 
-        width = 500
-        title="me" /> <br />
+
+<img src="/images/photo.jpg" width="400" title = "me"> <br />
 
 * I like to read. <br />
      + [Haruki Murakami](http://www.harukimurakami.com): I read all of them, and I recommend all of them. Nobody in this world knows me (and mankind in general) better than him.
