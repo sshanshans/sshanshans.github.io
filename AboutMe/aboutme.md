@@ -6,13 +6,14 @@ description: About Me
 
 <img src="/images/photo.jpg" width="400" title = "me"> <br />
 
-* I like to read. <br />
-     + [Haruki Murakami](http://www.harukimurakami.com): I read all of them, and I recommend all of them. Nobody in this world knows me (and mankind in general) better than him.
-     + [四库全书](https://zh.wikisource.org/zh/四庫全書): 古今小说唯《红楼》最佳。
 * I like to powerlift. <br />
      + deadlift: 225lbs
      + squat: 165lbs
      + bench press: okay, I'm terrible at these. 
+* I like to read. <br />
+     + [Haruki Murakami](http://www.harukimurakami.com): I read all of them, and I recommend all of them. Nobody knows me better than him.
+     + [四库全书](https://zh.wikisource.org/zh/四庫全書): 古今小说唯《红楼》最佳。
 * I like to listen to music. <br />
      + [Yuja Wang](http://yujawang.com)'s Rach and Ravel
      + [Igor Levit](http://igor-levit.de)'s Bach 
+     + Mono
