@@ -12,19 +12,20 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    border-top: 1px solid #eee;
-    border-bottom: 5px solid #C70039;
+    border-top: 2px solid #eee;
+    border-bottom: 10px solid #C70039;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 20px;
+    margin-right: 0px;
 }
 a {
     text-decoration: none;
     color: #666;
+    font-size: 20px;
 }
 a:hover {
     text-decoration: underline;
@@ -32,11 +33,11 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 20px;
+  margin:0 0 0px;
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 20px;
+  margin:0 0 0px;
 }
 
 h1 {
@@ -45,7 +46,6 @@ h1 {
 
 h3, h4, h5, h6 {
   color:#000;
-  line-height: 0;
 }
 
   
