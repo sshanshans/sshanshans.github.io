@@ -27,7 +27,7 @@ a:hover {
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
-  
+  line-height: 1;
 }
 
 p, ul, ol, table, pre, dl {
@@ -42,9 +42,6 @@ h3, h4, h5, h6 {
   color:#000;
 }
 
-h3 {
-    line-height: 1;
-}
   
 .wrapper {
   width:860px;
