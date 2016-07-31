@@ -43,7 +43,7 @@ h3, h4, h5, h6 {
 }
 
   
-.wrapper {
+.container {
   width:860px;
   margin:0 auto;
 }
@@ -85,12 +85,12 @@ hr {
 
 @media print, screen and (max-width: 960px) {
   
-  div.wrapper {
+  div.container {
     width:auto;
     margin:0;
   }
   
-  header, section, footer {
+  header, nav, section, footer {
     float:none;
     position:static;
     width:auto;
@@ -125,10 +125,6 @@ footer {
   bottom:50px;
 }
 
-.wrapper {
-  width:860px;
-  margin:0 auto;
-}
 
 @media print, screen and (max-width: 720px) {
   body {
