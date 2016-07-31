@@ -7,18 +7,13 @@ body {
     color: #666;
 }
 
-nav{
-    border-top: 1px solid #eee;
-    border-bottom: 5px solid #199057;
-    margin: 0 15%;
-    text-align: center;
-}
-
 nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    border-top: 1px solid #eee;
+    border-bottom: 5px solid #C70039;
     position: fixed;
     bottom: 0;
     width: 100%;
