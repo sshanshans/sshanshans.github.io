@@ -4,15 +4,15 @@ title: Shan Shan
 description: personal webpage
 ---
 
-###Research Interests
+### Research Interests
 
 Image processing and wavelets.
 ---
 
-###Curriculum Vitae [pdf](../CV/cv.pdf)
+### Curriculum Vitae [pdf](../CV/cv.pdf)
 ---
 	
-###Current Teaching ###
+### Current Teaching
 
 Fall 2016
 Math 122L: Introductory Calculus II with Applications
@@ -22,5 +22,5 @@ Office hours: TBA
 Course website 
 ---
         
-###Current Events
+### Current Events
 Graduate Faculty Seminar
