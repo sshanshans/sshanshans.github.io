@@ -11,14 +11,14 @@ Besides doing math,
      + deadlift: 225lbs <br />
      + squat: 165lbs <br /> 
      + bench press: oops,I’m not so good at this… <br />
-<br>
+<br />
 * I like to read, and here are some authors I read often. <br />
      + [Haruki Murakami](http://www.harukimurakami.com): I recommend all of them. Indeed, nobody knows me better than him. <br />
      + Dostoyevski: Brothers K is my favorite.  <br />
-<br>
+<br />
 * I like other things as well. <br />
      calligraphy, art museums, farmers’ market,…
 
 Here is a picture of me just being my self.
 
-<img src="images/shanshan.jpg" width=“400”>
+<img src=“images/shanshan.jpg“ width=“300”>
