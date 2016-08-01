@@ -1,19 +1,24 @@
 ---
-layout: page
-title: About Me
-description: About Me
+layout: default
+title: me
+description: profile
 ---
+I grew up in Tsingtao, China. My name in Chinese characters is 单珊. I went to Agnes Scott College, where I became a mathematician, art lover, and feminist. I have lived in three continents so far. <br />
 
-<img src="/images/photo.jpg" width="400" title = "me"> <br />
+Besides doing math,
 
-* I like to powerlift. <br />
-     + deadlift: 225lbs
-     + squat: 165lbs
-     + bench press: okay, I'm terrible at these. 
-* I like to read. <br />
-     + [Haruki Murakami](http://www.harukimurakami.com): I read all of them, and I recommend all of them. Nobody knows me better than him.
-     + [四库全书](https://zh.wikisource.org/zh/四庫全書): 古今小说唯《红楼》最佳。
-* I like to listen to music. <br />
-     + [Yuja Wang](http://yujawang.com)'s Rach and Ravel
-     + [Igor Levit](http://igor-levit.de)'s Bach 
-     + Mono
+* I like to powerlift, and w.h.p you will find me in Wilson. <br />
+     + deadlift: 225lbs <br />
+     + squat: 165lbs <br /> 
+     + bench press: oops,I’m not so good at this… <br />
+<br>
+* I like to read, and here are some authors I read often. <br />
+     + [Haruki Murakami](http://www.harukimurakami.com): I recommend all of them. Indeed, nobody knows me better than him. <br />
+     + Dostoyevski: Brothers K is my favorite.  <br />
+<br>
+* I like other things as well. <br />
+     calligraphy, art museums, farmers’ market,…
+
+Here is a picture of me just being my self.
+
+<img src="images/shanshan.jpg" width=“400”>
