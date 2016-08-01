@@ -2,30 +2,31 @@
 
 body {
     margin: 60px auto;
-    width: 70%;
     font:16px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #666;
+    width: 75%
 }
 
 nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 0px, 10%;
     list-style: none;
     font-weight: bold;
+    font-size: 25px;
     border-top: 2px solid #eee;
-    border-bottom: 10px solid #C70039;
+    border-bottom: 20px solid #BF0000;
     position: fixed;
     bottom: 0;
-    width: 100%;
+    width: 70%;
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-right: 0px;
+    margin-left: 100px;
 }
+
 a {
     text-decoration: none;
-    color: #666;
-    font-size: 20px;
+    color: #000;
 }
 a:hover {
     text-decoration: underline;
@@ -51,20 +52,22 @@ h3, h4, h5, h6 {
   
 .container {
   width:860px;
-  margin:0 auto;
+  margin:0px auto;
 }
 
 header {
-  width:200px;
+  width:280px;
   float:left;
+  border-top: 10px solid #eee;
+  border-bottom: 10px solid #eee;
   position:fixed;
+  padding: 20px;
 }
 
 
 section {
   width:500px;
   float:right;
-  padding-bottom:50px;
 }
 
 small {
@@ -102,15 +105,11 @@ hr {
     width:auto;
   }
   
-  header {
-    padding-right:320px;
-  }
-  
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
     padding:20px 0;
-    margin:0 0 20px;
+    margin:0px 20px;
   }
   
   header a small {
