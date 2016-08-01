@@ -4,7 +4,7 @@ body {
     margin: 60px auto;
     font:16px Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #666;
-    width: 75%
+    width:70%
 }
 
 nav ul, footer ul {
@@ -36,8 +36,12 @@ h1, h2, h3, h4, h5, h6 {
   color:#222;
 }
 
-p, ul, ol, table, pre, dl {
+ul, ol, table, pre, dl {
   margin:0 0 0px;
+}
+
+p{
+   margin: 2 0 0px;
 }
 
 h1 {
@@ -46,8 +50,9 @@ h1 {
 }
 
 h3 {
-	margin: 0 2 2 2px;
+	margin: 0 0 0px;
 }
+
 
 h3, h4, h5, h6 {
   color:#000;
