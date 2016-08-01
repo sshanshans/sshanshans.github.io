@@ -4,24 +4,23 @@ title: Shan Shan
 description: personal webpage
 ---
 
-<h3>Research Interests</h3>
-        <p> Image processing and wavelets. </p>
-        
-        <hr>
+###Research Interests
 
-        <h3>Curriculum Vitae </h3> <a href="{{ BASE_PATH }}/CV/cv.pdf”>pdf</a>
+Image processing and wavelets.
+---
+
+###Curriculum Vitae [pdf](../CV/cv.pdf)
+---
 	
-	<hr>
-	
-	<h3>Current Teaching</h3>
-	<p>Fall 2016 <br>
-	Math 122L: Introductory Calculus II with Applications <br>
-	Mondays, Wednesdays 3:20pm - 4:10pm <br>
-	Classroom: West Duke 204 <br>
-	Office hours: TBA <br>		
-	Course website 
-	</p>
-	
-	<hr> 
-        <h3>Current Events</h3>	
-        <p> Graduate Faculty Seminar </p>
+###Current Teaching ###
+
+Fall 2016
+Math 122L: Introductory Calculus II with Applications
+Mondays, Wednesdays 3:20pm - 4:10pm
+Classroom: West Duke 204
+Office hours: TBA		
+Course website 
+---
+        
+###Current Events
+Graduate Faculty Seminar
