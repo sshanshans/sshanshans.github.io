@@ -12,7 +12,7 @@ nav ul, footer ul {
     padding: 0px, 10%;
     list-style: none;
     font-weight: bold;
-    font-size: 25px;
+    font-size: 22px;
     border-top: 2px solid #eee;
     border-bottom: 20px solid #BF0000;
     position: fixed;
@@ -34,7 +34,6 @@ a:hover {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 0px;
 }
 
 p, ul, ol, table, pre, dl {
@@ -42,7 +41,12 @@ p, ul, ol, table, pre, dl {
 }
 
 h1 {
-  font-size:28px;
+  font-size:28px;	
+   margin: 0 0 0px;
+}
+
+h3 {
+	margin: 0 2 2 2px;
 }
 
 h3, h4, h5, h6 {
@@ -70,25 +74,12 @@ section {
   float:right;
 }
 
-small {
-  font-size:11px;
-}
-
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
-}
 
 hr {
-  border:0;
+  border:2px;
   background:#e5e5e5;
   height:1px;
-  margin:0 0 20px;
+  margin:2 2 2px;
 }
 
 
