@@ -21,4 +21,4 @@ Besides doing math,
 
 Here is a picture of me just being my self.
 
-<img src=“images/shanshan.jpg“ width=“300”>
+<img style="max-width: 300px; height: auto; " src="images/shanshan.jpg" />
