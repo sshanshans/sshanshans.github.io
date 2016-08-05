@@ -9,7 +9,6 @@ body {
 
 nav ul, footer ul {
     font-family:'Helvetica Neue', 'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px, 10%;
     list-style: none;
     font-weight: bold;
     font-size: 22px;
@@ -18,16 +17,19 @@ nav ul, footer ul {
     position: fixed;
     bottom: 0;
     width: 70%;
+    text-align:center;
+    display: table
 }
 nav ul li, footer ul li {
-    display: inline;
-    margin-left: 100px;
+    display:table-cell;
+    width: 17.5%
 }
 
 a {
     text-decoration: none;
     color: #000;
 }
+
 a:hover {
     text-decoration: underline;
 }
@@ -60,12 +62,11 @@ h3, h4, h5, h6 {
 
   
 .container {
-  width:860px;
   margin:0px auto;
 }
 
 header {
-  width:280px;
+  width: 20%;
   float:left;
   border-top: 10px solid #eee;
   border-bottom: 10px solid #eee;
@@ -75,8 +76,9 @@ header {
 
 
 section {
-  width:500px;
+  width: 50%; 
   float:right;
+  padding: 0px;
 }
 
 
@@ -126,9 +128,12 @@ footer {
 }
 
 @media print, screen and (max-width: 720px) {
-  body {
-    word-wrap:break-word;
+  
+  div.container {
+    width:auto;
+    margin:0;
   }
+
   
   header {
     padding:0;
