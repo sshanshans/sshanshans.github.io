@@ -8,7 +8,8 @@ description: personal webpage
 Image processing and wavelets.
 <hr>
 
-### Curriculum Vitae [(pdf)](../CV/cv.pdf)
+### Curriculum Vitae 
+[(pdf)](../CV/cv.pdf)
 <hr>
 	
 ### Current Teaching

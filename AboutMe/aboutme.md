@@ -3,11 +3,11 @@ layout: default
 title: me
 description: profile
 ---
-I grew up in Tsingtao, China. My name in Chinese characters is 单珊. I went to Agnes Scott College, where I became a mathematician, art lover, and feminist. I have lived in three continents so far. <br />
+I grew up in Tsingtao, a coastal city in China. My name in Chinese characters is 单珊. I went to Agnes Scott College, where I became a mathematician, art lover, and feminist. I have lived in three continents so far. <br />
 
 Besides doing math,
 
-* I like to powerlift, and w.h.p you will find me in Wilson. <br />
+* I like to powerlift, and w.h.p you will find me lifting weights in Wilson. <br />
      + deadlift: 225lbs <br />
      + squat: 165lbs <br /> 
      + bench press: oops,I’m not so good at this… <br />
@@ -21,4 +21,5 @@ Besides doing math,
 
 Here is a picture of me just being my self.
 
-<img style="max-width: 300px; height: auto; " src="images/shanshan.jpg" />
+<img src=“images/shanshan.jpg" style="width: 50%; height: 50%"/>​
+
