@@ -13,6 +13,6 @@ Machine learning and geometry processing
 ### Current Teaching
 SWIM 2017
 An introduction to fair division and cake-cutting algorithms
-[Course website](../swim/index.html)
+[Course website](/index.html)
 
         
