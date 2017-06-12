@@ -5,7 +5,7 @@ description: personal webpage
 ---
 
 ### Research Interests
-Image processing and wavelets.
+Machine learning and geometry processing
 <hr>
 
 ### Curriculum Vitae 
@@ -13,14 +13,8 @@ Image processing and wavelets.
 <hr>
 	
 ### Current Teaching
-Fall 2016 <br>
-Math 122L: Introductory Calculus II with Applications <br>
-Mondays, Wednesdays: 3:20pm - 4:10pm <br>
-Tuesdays, Thursdays: 3:05pm - 4:20pm <br>
-Classroom: West Duke 105 <br>
-Office hours: TBA <br>	
-[Course website](calculus2) <br>
+SWIM 2017 <br>
+An introduction to fair division and cake-cutting algorithms <br>
+[Course website](swim) <br>
 <hr>
         
-### Current Events
-Graduate Faculty Seminar
