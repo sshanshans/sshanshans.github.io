@@ -4,14 +4,14 @@ title: Teaching
 description: Teaching
 ---
 
-### Courses
-
 #### Current Teaching at Duke University <br />
-**Fall 2016** <br />
-SWIM 2017 <br>
-An introduction to fair division and cake-cutting algorithms <br>
-[Course website](/swim/index.html) <br>
-<hr>
+**SWIM 2017** <br />
+An introduction to fair division and cake-cutting algorithms <br />
+Summer Workshop in Mathematics <br />
+June 20-30, 2017 <br />
+[Course website](/swim/index.html) <br />
+
+SWIM is a summer workshop program for exceptionally talented rising senior female high school students. The six lectures introduce topics from fair division, proportional division, envy-free division, approximate division and unequal share. Techniques include graph theory, number theory, complexity and combinatorial topology. Students also explore problems from real life applications, for example, how to divide properties from a divorce settlement fairly, how to divide house chores fairly, how to handle late-arriving players, etc. 
 
 #### Previous Teaching at Duke University <br />
 
