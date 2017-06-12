@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: web
 title: Introduction to fair division and cake-cutting algorithms
 description: course webpage
 --- 
