@@ -10,23 +10,25 @@ How many times did you share a cake with your family and friends while envying s
 We will focus on problem solving skills with tools from graph theory, number theory, complexity, and combinatorial topology. But the most important thing is to have fun playing with mathematics!
 
 ### Agenda
-I.  Simple fair sharing: existence, algorithm and complexity <br>
-Day 1 - What is (simple) fair division  <br>
-Day 2 - Graph theory in simple fair division  <br>
-Day 3 - How many cuts are needed <br>
+I.  Simple fair sharing: existence, algorithm and complexity <br/>
+Day 1 - What is (simple) fair division  <br/>
+Day 2 - Graph theory in simple fair division  <br/>
+Day 3 - How many cuts are needed <br/>
 
-II. Some variations on the themes of fair division  <br>
-Day 4 - Unequal share  <br>
-Day 5 - Envy-free fair division  <br>
-Day 6 - Approximate division  <br>
+II. Some variations on the themes of fair division  <br/>
+Day 4 - Unequal share  <br/>
+Day 5 - Envy-free fair division  <br/>
+Day 6 - Approximate division  <br/>
 
 ### Notes
+* Lecture 1 [(pdf)](/swim/notes.pdf) <br />
+* Reference [(pdf)](/swim/reference.pdf) <br />
 
 ### Group projects
 
-* [Project 1]
-* [Project 2]
-* [Project 3]
-* [Project 4]
+* [Project 1] <br/>
+* [Project 2] <br/>
+* [Project 3] <br/>
+* [Project 4] <br/>
 
 
