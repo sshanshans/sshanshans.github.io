@@ -16,7 +16,7 @@ description: Teaching
   Math 122L: Introductory Calculus II with Applications <br /> 
   Mondays and Wednesdays, 3:20pm - 4:10pm <br /> 
   Classroom: West Duke 105<br /> 
-  [Course website](calculus2) 
+  [Course website](/calculus2/index.html) 
  
 **Fall 2015** <br />
 Math 105L: Laboratory Calculus and Functions I <br /> 
