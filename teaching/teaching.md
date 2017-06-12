@@ -7,7 +7,10 @@ description: Teaching
 ### Courses
 
 #### Current Teaching at Duke University <br />
-   
+**Fall 2016** <br />
+SWIM 2017 <br>
+An introduction to fair division and cake-cutting algorithms <br>
+[Course website](/swim/index.html) <br>
 <hr>
 
 #### Previous Teaching at Duke University <br />
