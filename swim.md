@@ -21,8 +21,8 @@ Day 5 - Envy-free fair division  <br/>
 Day 6 - Approximate division  <br/>
 
 ### Notes
-* Lecture 1 [(pdf)](/swim/notes.pdf) <br />
-* Reference [(pdf)](/swim/reference.pdf) <br />
+* Lecture 1 [(pdf)](/swim2017/notes.pdf) <br />
+* Reference [(pdf)](/swim2017/reference.pdf) <br />
 
 ### Group projects
 
