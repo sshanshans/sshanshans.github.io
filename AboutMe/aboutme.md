@@ -7,7 +7,7 @@ I grew up in Tsingtao, a coastal city in China. My name in Chinese characters is
 
 Besides doing math,
 
-* I like to powerlift, and w.h.p you will find me lifting weights in Wilson. <br />
+* I like to powerlift. <br />
      + deadlift: 225lbs <br />
      + squat: 165lbs <br /> 
      + bench press: oops,I’m not so good at this… <br />
@@ -18,7 +18,3 @@ Besides doing math,
 <br />
 * I like other things as well. <br />
      calligraphy, art museums, farmers’ market,…
-
-Here is a picture of me just being my self.
-
-<img src=��"/images/shanshan.jpg" >
