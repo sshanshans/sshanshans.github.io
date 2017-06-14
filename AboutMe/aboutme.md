@@ -3,7 +3,7 @@ layout: default
 title: me
 description: profile
 ---
-I grew up in Tsingtao, a coastal city in China. My name in Chinese characters is ??Š. I went to Agnes Scott College, where I became a mathematician, art lover, and feminist. I have lived in three continents so far. <br />
+I grew up in Tsingtao, a coastal city in China. My name in Chinese characters is å•çŠ. I went to Agnes Scott College, where I became a mathematician, art lover, and feminist. I have lived in three continents so far. <br />
 
 Besides doing math,
 
