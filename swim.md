@@ -1,6 +1,6 @@
 ---
 layout: web
-title: Introduction to fair division and cake-cutting algorithms
+title: SWIM 2017
 description: course webpage
 --- 
 [<img src="../images/SWIM.png" >](http://www.smithsonianmag.com/arts-culture/wayne-thiebaud-is-not-a-pop-artist-57060/) 

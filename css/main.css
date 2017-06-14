@@ -17,11 +17,11 @@ nav ul, footer ul {
     position: fixed;
     bottom: 0;
     width: 70%;
-    text-align:center;
+    text-align: center;
     display: table
 }
 nav ul li, footer ul li {
-    display:table-cell;
+    display: table-cell;
     width: 17.5%
 }
 
@@ -67,17 +67,17 @@ h3, h4, h5, h6 {
 
 header {
   width: 20%;
-  float:left;
+  float: left;
   border-top: 10px solid #eee;
   border-bottom: 10px solid #eee;
-  position:fixed;
+  position: fixed;
   padding: 20px;
 }
 
 
 section {
   width: 50%; 
-  float:right;
+  float: right;
   padding: 0px;
 }
 
@@ -91,8 +91,10 @@ hr {
 
 img {
     display: inline-block;
-    width: 70%; 
+    width: 7%; 
     height: auto;
+    text-align: center;
+    
 }
 
 @media print, screen and (max-width: 960px) {
