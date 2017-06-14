@@ -21,5 +21,4 @@ Besides doing math,
 
 Here is a picture of me just being my self.
 
-<img src=â€œimages/shanshan.jpg" style="width: 50%; height: 50%"/>â€‹
-
+<img src=€œ"/images/shanshan.jpg" >
