@@ -89,6 +89,12 @@ hr {
   margin:2 2 2px;
 }
 
+img {
+    display: inline-block;
+    width: 70%; 
+    height: auto;
+}
+
 @media print, screen and (max-width: 960px) {
   
   div.container {
