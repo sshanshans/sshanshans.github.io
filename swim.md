@@ -16,14 +16,12 @@ How many times did you share a cake with your family and friends while envying s
 We will focus on problem solving skills with tools from graph theory, number theory, complexity, and combinatorial topology. But the most important thing is to have fun playing with mathematics!
 
 ### Course Materials
-Course Introduction [(pdf)](../swim2017/notes.pdf) <br/>
-Group Project [(pdf)](../swim2017/project.pdf) <br/>
-Reference [(pdf)](../swim2017/reference.pdf) <br/>
+For all course materials, please go to the git repository: [swim2017](https://github.com/sshanshans/swim2017)
 
 ### Agenda
 I.  Simple fair sharing: existence, algorithm and complexity <br/>
-Day 1 - What is (simple) fair division: [worksheet](/swim2017/set.pdf) <br/>
-Day 2 - How many cuts are needed: [worksheet](/swim2017/induction.pdf) <br/>
+Day 1 - What is (simple) fair division <br/>
+Day 2 - How many cuts are needed<br/>
 Day 3 - Applying graph theory to simple fair division  <br/>
 
 II. Some variations on the themes of fair division  <br/>
