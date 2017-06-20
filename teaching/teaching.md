@@ -7,9 +7,8 @@ description: Teaching
 #### Current Teaching at Duke University <br />
 **SWIM 2017** <br />
 An introduction to fair division and cake-cutting algorithms <br />
-Summer Workshop in Mathematics <br />
 June 20-30, 2017 <br />
-[Course website](/swim/index.html) <br />
+[Course website](/swim.html) <br />
 
 SWIM is a summer workshop program for exceptionally talented rising senior female high school students. The six lectures introduce topics from fair division, proportional division, envy-free division, approximate division and unequal share. 
 
