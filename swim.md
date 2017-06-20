@@ -16,9 +16,9 @@ How many times did you share a cake with your family and friends while envying s
 We will focus on problem solving skills with tools from graph theory, number theory, complexity, and combinatorial topology. But the most important thing is to have fun playing with mathematics!
 
 ### Course Materials
-Course Introduction [(pdf)](/swim2017/notes.pdf) <br/>
-Group Project [(pdf)](/swim2017/project.pdf) <br/>
-Reference [(pdf)](/swim2017/reference.pdf) <br/>
+Course Introduction [(pdf)](../swim2017/notes.pdf) <br/>
+Group Project [(pdf)](../swim2017/project.pdf) <br/>
+Reference [(pdf)](../swim2017/reference.pdf) <br/>
 
 ### Agenda
 I.  Simple fair sharing: existence, algorithm and complexity <br/>
@@ -31,3 +31,7 @@ Day 4 - Unequal share  <br/>
 Day 5 - Envy-free fair division  <br/>
 Day 6 - Sperner's lemma in fair division <br/>
 
+
+<br/>
+<br/>
+<br/>
