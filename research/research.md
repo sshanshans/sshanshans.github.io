@@ -8,4 +8,4 @@ My research interest is on image processing and its applications in arts. The ma
 
 #### 2018
 
-[ariaDNE](/ariadne.html) <br />
+[ariaDNE](/articles/ariadne.html) <br />
