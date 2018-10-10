@@ -1,9 +1,9 @@
 ---
 layout: default
-title: ariaDNE A Robustly Implemented Algorithm for Dirichlet Normal Energy
+title: ariaDNE 
 description: course webpage
 --- 
-[<img src="../images/SWIM.png" >](http://www.smithsonianmag.com/arts-culture/wayne-thiebaud-is-not-a-pop-artist-57060/) 
+## ariaDNE: A Robustly Implemented Algorithm for Dirichlet Normal Energy
 
 [Shan Shan](https://sshanshans.github.io) &emsp; &emsp; Shahar Z. Kovalsky &emsp; &emsp; Julie M. Winchester &emsp; &emsp; Doug M. Boyer &emsp; &emsp; Ingrid Daubechies
 
