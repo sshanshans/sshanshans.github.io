@@ -14,6 +14,7 @@ Besides doing math,
 * I like to read, and here are some authors I read often. <br />
      + [Haruki Murakami](http://www.harukimurakami.com): I recommend all of them. Indeed, nobody knows me better than him. <br />
      + Dostoyevski: Brothers K is my favorite.  <br />
+     + Orhan Pamuk <br />
 <br />
 * I like other things as well. <br />
      calligraphy, art museums, farmers market, etc
