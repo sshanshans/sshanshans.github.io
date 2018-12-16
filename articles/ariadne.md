@@ -22,7 +22,8 @@ The *Dirichlet energy of the normal* measures how much a 3D surface bends; DNE, 
 * [Pampush, James D., et al. "Introducing molaR: a new R package for quantitative topographic analysis of teeth (and other topographic surfaces)." Journal of Mammalian Evolution 23.4 (2016): 397-412.](./ariadne/mesh192.csv)
 * [Prufrock, Kristen A., Doug M. Boyer, and Mary T. Silcox. "The first major primate extinction: an evaluation of paleoecological dynamics of North American stem primates using a homology free measure of tooth shape." American journal of physical anthropology 159.4 (2016): 683-697.](./ariadne/mesh194.csv)
 * [López-Torres, Sergi, et al. "Dental topographic analysis of paromomyid (Plesiadapiformes, Primates) cheek teeth: more than 15 million years of changing surfaces and shifting ecologies." Historical Biology 30.1-2 (2018): 76-88.](./ariadne/mesh345.csv)
-
+* [Pampush et al. "Atelidae Adaptive Dental Topography Dynamics."(./ariadne/mesh509.csv)
+* [Pampush et al. "Howler Wear Project."(./ariadne/mesh203.csv) 
 
 
 
