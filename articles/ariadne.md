@@ -24,9 +24,8 @@ The *Dirichlet energy of the normal* measures how much a 3D surface bends; DNE, 
 * [López-Torres, Sergi, et al. "Dental topographic analysis of paromomyid (Plesiadapiformes, Primates) cheek teeth: more than 15 million years of changing surfaces and shifting ecologies." Historical Biology 30.1-2 (2018): 76-88.](./ariadne/mesh345.csv)
 * [Pampush et al. "Atelidae Adaptive Dental Topography Dynamics."](./ariadne/mesh509.csv)
 * [Pampush et al. "Howler Wear Project."](./ariadne/mesh203.csv) 
-
-
-
+* [M. A. Berthaume and K. Schroer. "Extant ape dental topography and its implications for reconstructing the emergence of early homo. Journal of human evolution." 112:1529, 2017.](./ariadne/berthaume2017.csv)
+* [M. A. Berthaume, et al. "Dental topography and the diet of homo naledi." Journal of human evolution, 118:14-26, 2018.](./ariadne/berthaume2018.csv)
 
 
 
