@@ -12,7 +12,7 @@ Machine learning and geometry processing
 [(pdf)](../CV/cv.pdf)
 <hr />	
 	
-### Current Teaching
+### Recent Teaching
 Spring 2018  <br />
 Math 106L: Laboratory Calculus and Functions II <br />
 MWF, 08:45am - 09:35am in Carr 114 <br />
