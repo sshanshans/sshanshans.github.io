@@ -5,18 +5,19 @@ description: personal webpage
 ---
 
 ### Research Interests 
-Machine learning and geometry processing
+Statistics of Shapes, mathematical framework of machine learning
 <hr />
 
 ### Curriculum Vitae 
 [(pdf)](../CV/cv.pdf)
 <hr />	
 	
-### Recent Teaching
-Spring 2018  <br />
-Math 106L: Laboratory Calculus and Functions II <br />
-MWF, 08:45am - 09:35am in Carr 114 <br />
-TH, 10:30am - 12:15pm in West Duke 108B <br />
-[Course website](https://sshanshans.github.io/math106/)
+### Current Teaching
+Fall 2020  <br />
+Stat 140: Introduction to the Ideas and Applications of Statistics <br />
+M, 12:45pm - 02:00pm <br />
+TTH, 12:45pm - 01:45pm <br />
+WF, 12:45pm - 02:30pm <br />
+[Course website](https://sshanshans.github.io/stat140/)
 
         
