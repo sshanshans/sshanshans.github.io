@@ -3,8 +3,8 @@ layout: default
 title: research
 description: Research
 ---
-
-#### Research: Overview
+## Research
+#### Overview
 
 My research focuses on problems in diffusion geometry and Bayesian statistics, that are motivated
 by the open challenges of extracting stable and interpretable information from high-dimensional

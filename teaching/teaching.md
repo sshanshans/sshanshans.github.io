@@ -3,6 +3,7 @@ layout: default
 title: Teaching
 description: Teaching
 ---
+## Teaching
 #### Current teaching
 
 I teach two classes most semesters. For Fall 2020 I am teaching two sections of STAT140, one of our core statistics and data science courses.
