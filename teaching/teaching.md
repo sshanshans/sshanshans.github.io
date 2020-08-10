@@ -5,10 +5,11 @@ description: Teaching
 ---
 
 ### Previous teaching at Duke University
-* [M106L: Laboratory Calculus and Functions II](/math106/index.html), Spring 2018 
-* [An introduction to fair division and cake-cutting algorithms](/swim.html), Summer 2017
-* [M122L:  Introductory Calculus II with Applications](/calculus2/index.html), Fall 2016
-* M105L: Laboratory Calculus and Functions I, Fall 2015
+
+[M106L: Laboratory Calculus and Functions II](/math106/index.html), Spring 2018 <br/>
+[An introduction to fair division and cake-cutting algorithms](/swim.html), Summer 2017 <br/>
+[M122L:  Introductory Calculus II with Applications](/calculus2/index.html), Fall 2016 <br/>
+M105L: Laboratory Calculus and Functions I, Fall 2015
 * M111L:  Introductory Calculus I with Applications, Fall 2014
 
 ### Short courses

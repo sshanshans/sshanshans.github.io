@@ -6,7 +6,9 @@ description: profile
 
 ![me](/images/shanshan.jpg)
 
-I grew up in Tsingtao, a coastal city in China. My name in Chinese characters is 单珊. I went to Agnes Scott College, where I became a mathematician, art lover, and feminist. I have lived in three continents so far. <br />
+I grew up in Tsingtao, a coastal city in China. My name in Chinese characters is 单珊. As an undergraduate, I went to Agnes Scott College, where I became a mathematician, art lover, and feminist. 
+
+<br />
 
 Besides doing math,
 
