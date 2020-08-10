@@ -14,6 +14,16 @@ Mathematical framework of machine learning
 <hr />	
 	
 ### Current Teaching
-[Stat 140: Introduction to the Ideas and Applications of Statistics](https://sshanshans.github.io/stat140/),  Fall 2020 
+Fall 2020 <br/>
+Stat 140: Introduction to the Ideas and Applications of Statistics <br/>
+[Course website](https://sshanshans.github.io/stat140/)
+<hr />
 
+### Events
+Math/Stat Virtual Tea <br/>
+Thursdays 3:15pm -4:30pm <br/>
+Schedule <br/>
+
+<br/>
+<br/>
         
