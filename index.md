@@ -20,7 +20,6 @@ Stat 140: Introduction to the Ideas and Applications of Statistics <br/>
 
 ### Events and News
 Math/Stat Virtual Tea <br/>
-<hr />
 
 
 <br />
