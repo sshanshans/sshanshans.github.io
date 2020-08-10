@@ -6,15 +6,17 @@ description: Teaching
 
 ### Previous teaching at Duke University
 
-[M106L: Laboratory Calculus and Functions II](/math106/index.html), Spring 2018 <br/>
-[An introduction to fair division and cake-cutting algorithms](/swim.html), Summer 2017 <br/>
-[M122L:  Introductory Calculus II with Applications](/calculus2/index.html), Fall 2016 <br/>
-M105L: Laboratory Calculus and Functions I, Fall 2015
+* M106L: Laboratory Calculus and Functions II, Spring 2018, [website](/math106/index.html)
+* M122L:  Introductory Calculus II with Applications, Fall 2016, [website](/calculus2/index.html)
+* M105L: Laboratory Calculus and Functions I, Fall 2015
 * M111L:  Introductory Calculus I with Applications, Fall 2014
 
+<br/>
+
 ### Short courses
-* [3D Morphometrics and Image Analysis Winter Workshop](https://slicermorph.github.io/2020_Winter_Workshop/), Winter 2020
-* [3D Morphometrics and Image Analysis Summer Workshop](https://slicermorph.github.io/2019_Summer_Workshop/), Summer 2019
+* 3D Morphometrics and Image Analysis Winter Workshop, Winter 2020, [website](https://slicermorph.github.io/2020_Winter_Workshop/)
+* 3D Morphometrics and Image Analysis Summer Workshop, Summer 2019, [website](https://slicermorph.github.io/2019_Summer_Workshop/)
+* An introduction to fair division and cake-cutting algorithms, Summer 2017, [website](/swim.html)
 
 
 
