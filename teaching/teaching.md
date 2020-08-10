@@ -10,7 +10,7 @@ I teach two classes most semesters. For Fall 2020 I am teaching two sections of 
 
 * S140: Intro to the Ideas and Applications of Statistics, Fall 2020, [website](https://sshanshans.github.io/stat140/)
 
-<hr />
+<br />
 
 #### Previous teaching at Duke University
 
@@ -19,7 +19,7 @@ I teach two classes most semesters. For Fall 2020 I am teaching two sections of 
 * M105L: Laboratory Calculus and Functions I, Fall 2015
 * M111L:  Introductory Calculus I with Applications, Fall 2014
 
-<hr />
+<br />
 
 #### Short courses
 
