@@ -5,7 +5,8 @@ description: personal webpage
 ---
 
 ### Research Interests 
-Shape analysis and learning via geometry and statistics, mathematical framework of machine learning
+Shape analysis and learning via geometry and statistics <br />
+Mathematical framework of machine learning
 <hr />
 
 ### Curriculum Vitae 
