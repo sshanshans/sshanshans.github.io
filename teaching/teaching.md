@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 description: Teaching
 ---
-### Teaching
+#### Current teaching
 
 I teach two classes most semesters. For Fall 2020 I am teaching two sections of STAT140, one of our core statistics and data science courses.
 
@@ -11,7 +11,7 @@ I teach two classes most semesters. For Fall 2020 I am teaching two sections of 
 
 <hr />
 
-### Previous teaching at Duke University
+#### Previous teaching at Duke University
 
 * M106L: Laboratory Calculus and Functions II, Spring 2018, [website](/math106/index.html)
 * M122L:  Introductory Calculus II with Applications, Fall 2016, [website](/calculus2/index.html)
@@ -20,7 +20,7 @@ I teach two classes most semesters. For Fall 2020 I am teaching two sections of 
 
 <hr />
 
-### Short courses
+#### Short courses
 
 * 3D Morphometrics and Image Analysis Winter Workshop, Winter 2020, [website](https://slicermorph.github.io/2020_Winter_Workshop/)
 * 3D Morphometrics and Image Analysis Summer Workshop, Summer 2019, [website](https://slicermorph.github.io/2019_Summer_Workshop/)
