@@ -5,7 +5,7 @@ description: personal webpage
 ---
 
 ### Research Interests 
-Statistics of Shapes, mathematical framework of machine learning
+Shape analysis and learning via geometry and statistics, mathematical framework of machine learning
 <hr />
 
 ### Curriculum Vitae 
@@ -13,8 +13,6 @@ Statistics of Shapes, mathematical framework of machine learning
 <hr />	
 	
 ### Current Teaching
-Fall 2020  <br />
-Stat 140: Introduction to the Ideas and Applications of Statistics <br />
-[Course website](https://sshanshans.github.io/stat140/)
+[Stat 140: Introduction to the Ideas and Applications of Statistics](https://sshanshans.github.io/stat140/),  Fall 2020 
 
         
