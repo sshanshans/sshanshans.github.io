@@ -20,8 +20,10 @@ Stat 140: Introduction to the Ideas and Applications of Statistics <br/>
 
 ### Events and News
 
-I am on leave from Mount Holyoke this year; you can find me at the [Centre for Quantum Mathematics](https://www.sdu.dk/en/qm) at Syddansk Universitet in Denmark.  
+I am on leave from Mount Holyoke this year; you can find me at the [Centre for Quantum Mathematics](https://www.sdu.dk/en/qm) at Syddansk Universitet in Denmark.   <br />
 
+ <br />
+ 
 Math/Stat Virtual Tea <br/>
 [Event schedule](https://sshanshans.github.io/VirtualTea/static/imprint/)
 
