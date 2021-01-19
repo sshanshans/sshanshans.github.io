@@ -13,12 +13,15 @@ Mathematical framework of machine learning
 [(pdf)](../CV/cv.pdf)
 <hr />	
 	
-### Current Teaching
+### Recent Teaching
 Stat 140: Introduction to the Ideas and Applications of Statistics <br/>
 [Course website](https://sshanshans.github.io/stat140/)
 <hr />
 
 ### Events and News
+
+I am on leave from Mount Holyoke this year; you can find me at the [Centre for Quantum Mathematics](https://www.sdu.dk/en/qm) at Syddansk Universitet in Denmark.  
+
 Math/Stat Virtual Tea <br/>
 
 

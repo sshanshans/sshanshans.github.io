@@ -4,12 +4,10 @@ title: Teaching
 description: Teaching
 ---
 ## Teaching
-#### Current teaching
 
-I teach two classes most semesters. For Fall 2020 I am teaching two sections of STAT140, one of our core statistics and data science courses.
+#### Teaching at Mount Holyoke
 
 * S140: Intro to the Ideas and Applications of Statistics, Fall 2020, [website](https://sshanshans.github.io/stat140/)
-
 
 #### Previous teaching at Duke University
 
@@ -24,8 +22,6 @@ I teach two classes most semesters. For Fall 2020 I am teaching two sections of 
 * 3D Morphometrics and Image Analysis Winter Workshop, Winter 2020, [website](https://slicermorph.github.io/2020_Winter_Workshop/)
 * 3D Morphometrics and Image Analysis Summer Workshop, Summer 2019, [website](https://slicermorph.github.io/2019_Summer_Workshop/)
 * An introduction to fair division and cake-cutting algorithms, Summer 2017, [website](/swim.html)
-
-
 
 
 
