@@ -5,7 +5,7 @@ description: personal webpage
 ---
 
 ### Research Interests 
-Machine learning with quantum computing <br />
+Quantum computing and its application <br />
 Shape analysis and learning via geometry and statistics <br />
 Mathematical framework of machine learning
 <hr />
@@ -14,13 +14,13 @@ Mathematical framework of machine learning
 [(pdf)](../CV/cv.pdf)
 <hr />	
 	
-### Recent Teaching
-Stat 140: Introduction to the Ideas and Applications of Statistics <br/>
-[Course website](https://sshanshans.github.io/stat140/)
+### Current Teaching
+MM571: Førsteårsprojekt for anvendt matematik og matematik
 <hr />
 
 ### Events and News
-
+I will be giving a talk on Gaussian Boson Sampling for approximating Gaussian expectation problems at the International Conference for Women in Mathematical Sciences from May 16 to May 17, 2024 in Copenhagen. 
+[website](https://www.math.ku.dk/english/calendar/events/women-in-math/)
  
 <br />
 <br />
