@@ -18,10 +18,10 @@ description: Research
    The FASEB Journal, 34(S1), 1-1. (2020)
    Fulwood, E. L., *Shan, S.*, Winchester, J., Kirveslahti, H., Gao, T., Boyer, D., & Daubechies, I.
 
-1. **ariaDNE: A robustly implemented algorithm for Dirichlet energy of the normal.**
-   Methods in Ecology and Evolution, 10(4), 541-552. (2019)
-   *Shan, S.*, Kovalsky, S., Winchester, J., Boyer, D., & Daubechies, I.
-   [(code)](/articles/ariadne.html)
+1. <p>**ariaDNE: A robustly implemented algorithm for Dirichlet energy of the normal.** <p/>
+   <p>Methods in Ecology and Evolution, 10(4), 541-552. (2019) <p/>
+   <p>*Shan, S.*, Kovalsky, S., Winchester, J., Boyer, D., & Daubechies, I. <p/>
+   <p>[(code)](/articles/ariadne.html) <p/>
 
 <br />
 <br />
