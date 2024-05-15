@@ -14,12 +14,14 @@ description: Research
 3. Fulwood, E. L., **Shan, S.**, Winchester, J., Kirveslahti, H., Ravier, R., Kovalsky, S., Daubechies, I., \& Boyer, D. (2021). Insights from macroevolutionary modelling and ancestral state reconstruction into the radiation and historical dietary ecology of Lemuriformes (Primates, Mammalia). BMC ecology and evolution, 21(1), 1-13.
 <br />
 
-2. Dietary adaptation in lemurs, analyzed using new approaches to describing functional properties of tooth shape. The FASEB Journal, 34(S1), 1-1. (2020)
-Fulwood, E. L., *Shan, S.*, Winchester, J., Kirveslahti, H., Gao, T., Boyer, D., & Daubechies, I.
-<br />
+2. Dietary adaptation in lemurs, analyzed using new approaches to describing functional properties of tooth shape.
+   The FASEB Journal, 34(S1), 1-1. (2020)
+   Fulwood, E. L., *Shan, S.*, Winchester, J., Kirveslahti, H., Gao, T., Boyer, D., & Daubechies, I.
 
-1. **ariaDNE: A robustly implemented algorithm for Dirichlet energy of the normal.** Methods in Ecology and Evolution, 10(4), 541-552. (2019) [(code)](/articles/ariadne.html)
-*Shan, S.*, Kovalsky, S., Winchester, J., Boyer, D., & Daubechies, I.
+1. **ariaDNE: A robustly implemented algorithm for Dirichlet energy of the normal.**
+   Methods in Ecology and Evolution, 10(4), 541-552. (2019)
+   *Shan, S.*, Kovalsky, S., Winchester, J., Boyer, D., & Daubechies, I.
+   [(code)](/articles/ariadne.html)
 
 <br />
 <br />
