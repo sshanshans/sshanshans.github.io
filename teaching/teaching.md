@@ -5,6 +5,9 @@ description: Teaching
 ---
 ## Teaching
 
+#### Teaching at University of Southern Denmark
+* MM571: Førsteårsprojekt for anvendt matematik og matematik, Fall 2024
+
 #### Teaching at Mount Holyoke
 
 * S140: Intro to the Ideas and Applications of Statistics, Fall 2020, [website](https://sshanshans.github.io/stat140/)
