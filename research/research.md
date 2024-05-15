@@ -16,8 +16,8 @@ description: Research
 
 2. Dietary adaptation in lemurs, analyzed using new approaches to describing functional properties of tooth shape. The FASEB Journal, 34(S1), 1-1. (2020)
 Fulwood, E. L., *Shan, S.*, Winchester, J., Kirveslahti, H., Gao, T., Boyer, D., & Daubechies, I.
-
 <br />
+
 1. **ariaDNE: A robustly implemented algorithm for Dirichlet energy of the normal.** Methods in Ecology and Evolution, 10(4), 541-552. (2019) [(code)](/articles/ariadne.html)
 *Shan, S.*, Kovalsky, S., Winchester, J., Boyer, D., & Daubechies, I.
 
