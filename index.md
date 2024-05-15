@@ -19,7 +19,7 @@ MM571: Førsteårsprojekt for anvendt matematik og matematik
 <hr />
 
 ### Events and News
-I will be giving a talk titled "Gaussian Boson Sampling for Approximating Gaussian expectation Problems" at the International Conference for Women in Mathematical Sciences(https://www.math.ku.dk/english/calendar/events/women-in-math/) from May 16 to May 17, 2024 at the University of Copenhagen. 
+I will be giving a talk on "Gaussian Boson Sampling for Approximating Gaussian Expectation Problems" at the [International Conference for Women in Mathematical Sciences](https://www.math.ku.dk/english/calendar/events/women-in-math/) from May 16 to May 17, 2024 at the University of Copenhagen. 
  
 <br />
 <br />
