@@ -11,7 +11,7 @@ Mathematical framework of machine learning
 <hr />
 
 ### Curriculum Vitae 
-[(pdf)](../CV/cv.pdf)
+[(pdf)](../CV/CV.pdf)
 <hr />	
 
 ### Events and News
