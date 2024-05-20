@@ -8,10 +8,10 @@ My research is/was supported by Danmarks Innovationsfond (2024-2029), Region Syd
 
 ## Publications
 
-(^*^): bachelor/master student author.
+(<sup>*</sup>): bachelor/master student author.
 
 8. **‘He Has the Whole Package: Lyrics, Melodies, Enigmatic, mythical’: Images of Bob Dylan – Results of Questionnaire** <br />
-Andersen, J., A.-M. Mai, Møller J.^*^, & *Shan.S*.  (2024) <br />
+Andersen, J., A.-M. Mai, Møller J.<sup>*</sup>, & *Shan.S*.  (2024) <br />
 *Aktualitet - Litteratur, Kultur Og Medier, s. 1-33.*  <br />
 [[paper]](https://tidsskrift.dk/aktualitet/article/view/145362) <br />
 
