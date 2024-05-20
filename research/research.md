@@ -4,7 +4,7 @@ title: research
 description: Research
 ---
 
-My research is/was supported by Danmarks Innovationsfond (2024-2029), Region Syddanmarks Innovationspulje (2023-2025), Danish Institute for Advanced Study (2022).
+My research is/was supported by Danmarks Innovationsfond (2024-2029), Region Syddanmarks Innovationspulje (2023-2025), and the Danish Institute for Advanced Study (2022).
 
 ## Publications
 
