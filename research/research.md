@@ -5,8 +5,8 @@ description: Research
 ---
 ## Publications
 
-8. **‘He Has the Whole Package: Lyrics, Melodies, Enigmatic, mythical’ : Images of Bob Dylan – Results of Questionnaire** <br />
-Andersen, J., A.-M. Mai, Møller J.*, & *Shan.S*.  (2024) <br />
+8. **‘He Has the Whole Package: Lyrics, Melodies, Enigmatic, mythical’: Images of Bob Dylan – Results of Questionnaire** <br />
+Andersen, J., A.-M. Mai, Møller J.^+, & *Shan.S*.  (2024) <br />
 *Aktualitet - Litteratur, Kultur Og Medier, s. 1-33.*  <br />
 [[paper]](https://tidsskrift.dk/aktualitet/article/view/145362) <br />
 
