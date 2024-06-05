@@ -36,10 +36,6 @@ a:hover {
     text-decoration: underline;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color:#49494f;
-}
-
 ul, ol, table, pre, dl {
   margin:0 0 0px;
 }
@@ -54,11 +50,12 @@ h1 {
 }
 
 h3 {
+  font-size:18px;	
   margin: 0 0 0px;
 }
 
 
-h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   color:#000;
 }
 
