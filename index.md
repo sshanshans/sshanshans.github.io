@@ -10,12 +10,12 @@ Shape analysis and learning via geometry and statistics <br />
 Mathematical framework of machine learning
 <hr />
 
-### Curriculum Vitae 
-[(pdf)](../CV/CV.pdf)
+### Opennings 
+If you are interested in working with me, please find the information [here](..research/open.md)
 <hr />	
 
 ### Events and News
-I will be giving a talk on "Gaussian Boson Sampling for Approximating Gaussian Expectation Problems" at the [International Conference for Women in Mathematical Sciences](https://www.math.ku.dk/english/calendar/events/women-in-math/) from May 16 to May 17, 2024 in Copenhagen. 
+I will be at the [CLUSTEC theory camp](https://clustec.eu/) from Aug 26 to Sep 04, 2024 at the Technical University of Denmark. The 3rd CLUSTEC general assembly will be held at QM, SDU from Sep 05 to Sep 06, 2024. 
  
 <br />
 <br />
