@@ -5,8 +5,7 @@ description: Research
 ---
 
 
-### Mathematical Framework of Machine Learning
-
+### Mathematical framework of machine learning
 
 * Diffusion Maps: Using the Semigroup Property for Parameter Tuning. <br />
 *Theoretical Physics, Wavelets, Analysis, Genomics*. Springer, 409-424.  <br />
