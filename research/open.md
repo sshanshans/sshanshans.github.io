@@ -4,7 +4,7 @@ title: research
 description: Research
 ---
 
-## Information for Prospective Students
+### Information for Prospective Students
 
 I'm always on the lookout for great students to work with me.
 
