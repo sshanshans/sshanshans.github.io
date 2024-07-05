@@ -5,7 +5,7 @@ description: Research
 ---
 
 ### Papers
-For a full list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). 
+For a full list of publications, see my Google Scholar [[profile]](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). 
 
 * Quantum computing [(link)](../research/quantum.html)
 * Biological shape analysis [(link)](../research/shape.html)
