@@ -5,18 +5,21 @@ description: Research
 ---
 
 ## Papers
-For a full list of publication, see my google scholar profile. 
+For a full list of publications, see my Google Scholar [(profile)](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). 
 
 * Quantum computing [(link)](../research/quantum.html)
-* Biological shape analysis
-* Mathematical framework of machine learning 
+* Biological shape analysis [(link)](../research/shape.html)
+* Mathematical framework of machine learning [(link)](../research/ml.html)
+* Other R&D applications [(link)](../research/other.html)
 
 ## Recent Talks
 
 ## Funding Acknowledgement
 My research is/was generously supported by
 * Danmarks Innovationsfond (2024-2029)
+* European Union's Digital Europe programme (2023-2025)
 * Region Syddanmarks Innovationspulje (2023-2025)
+* European Union's Horizon Europe (2022-2026)
 * Danish Institute for Advanced Study (2022)
 
 <br />
