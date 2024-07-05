@@ -4,7 +4,7 @@ title: research
 description: Research
 ---
 
-### Other R&D Applications
+### Other R&D applications
 
 (+): student mentored.
 
