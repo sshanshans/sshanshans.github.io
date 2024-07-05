@@ -5,7 +5,7 @@ description: Research
 ---
 
 ### Papers
-For a full list of publications, see my Google Scholar [[profile]](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). 
+For a full list of publications, see my Google Scholar profile [(here)](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). 
 
 For papers organized according to categories, click on the links below. 
 
@@ -14,6 +14,7 @@ For papers organized according to categories, click on the links below.
 * [Mathematical framework of machine learning](../research/ml.html) <br />
 * [Other R&D applications](../research/other.html)
 
+<br>
 <hr />	
 
 ### Talks
