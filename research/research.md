@@ -19,7 +19,7 @@ For papers organized according to categories, click on the links below.
 
 ### Talks
 
-I have recently given, or will soon give, a talk at:
+Recent or upcoming:
 
 * [International Conference for Woman in Mathematics](https://www.math.ku.dk/english/calendar/events/women-in-math/#:~:text=To%20mark%20this%20date%20and,May%2017%2C%202024%20in%20Copenhagen), May 17, 2024, Copehagen, Denmark. <br />
 * [Scientific Quantum Conference](https://dqc.dk/event/scientific-quantum-conference/), Apr 15, 2024, Odense, Denmark.
