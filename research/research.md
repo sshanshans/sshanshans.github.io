@@ -4,7 +4,7 @@ title: research
 description: Research
 ---
 
-## Papers
+### Papers
 For a full list of publications, see my [Google Scholar profile](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). 
 
 * Quantum computing [(link)](../research/quantum.html)
@@ -12,9 +12,9 @@ For a full list of publications, see my [Google Scholar profile](https://scholar
 * Mathematical framework of machine learning [(link)](../research/ml.html)
 * Other R&D applications [(link)](../research/other.html)
 
-## Recent Talks
+### Recent Talks
 
-## Funding Acknowledgement
+### Funding Acknowledgement
 My research is/was generously supported by
 * Danmarks Innovationsfond (2024-2029)
 * European Union's Digital Europe programme (2023-2025)
