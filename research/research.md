@@ -7,18 +7,24 @@ description: Research
 ### Papers
 For a full list of publications, see my Google Scholar [[profile]](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). 
 
+For papers organized according to categories, click on the links below. 
+
 * Quantum computing [[link]](../research/quantum.html)
 * Biological shape analysis [[link]](../research/shape.html)
 * Mathematical framework of machine learning [[link]](../research/ml.html)
 * Other R&D applications [[link]](../research/other.html)
+<br />
 
 <hr />	
 
-### Recent and Upcoming Talks
+### Talks
+
+I have recently given, or will soon give, a talk at:
 
 * [International Conference for Woman in Mathematics](https://www.math.ku.dk/english/calendar/events/women-in-math/#:~:text=To%20mark%20this%20date%20and,May%2017%2C%202024%20in%20Copenhagen), May 17, 2024, Copehagen.
 * [Scientific Quantum Conference](https://dqc.dk/event/scientific-quantum-conference/), Apr 15, 2024, Odense.
 
+<br />
 <hr />	
 
 ### Funding Acknowledgement
