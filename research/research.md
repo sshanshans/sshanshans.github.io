@@ -5,8 +5,7 @@ description: Research
 ---
 
 ### Papers
-For a full list of publications, see my Google Scholar profile [(here)](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). 
-
+For a full list of publications, see my Google Scholar profile [(here)](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). <br />
 For papers organized according to categories, click on the links below. 
 
 [Quantum computing](../research/quantum.html) <br />
