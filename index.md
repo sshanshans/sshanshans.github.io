@@ -4,17 +4,17 @@ title: Shan Shan
 description: personal webpage
 ---
 
-### Research Interests 
+### Research interests 
 Quantum computing and its application <br />
 Shape analysis and learning via geometry and statistics <br />
 Mathematical framework of machine learning
 <hr />
 
-### Open Positions 
+### Open positions 
 If you are interested in working with me, please find the information [(here)](../research/open.html).
 <hr />	
 
-### Events and News
+### Events and news
 I will be at the [CLUSTEC](https://clustec.eu/) theory camp at the Technical University of Denmark from Aug 26 to Sep 04, 2024, and the 3rd CLUSTEC general assembly will be held at the Centre of Quantum Mathematics, SDU from Sep 05 to Sep 06, 2024. 
  
 <br />
