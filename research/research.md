@@ -14,7 +14,6 @@ For papers organized according to categories, click on the links below.
 * [Mathematical framework of machine learning](../research/ml.html) <br />
 * [Other R&D applications](../research/other.html)
 
-<br />
 <hr />	
 
 ### Talks
@@ -24,7 +23,6 @@ Recent or upcoming:
 * [International Conference for Woman in Mathematics](https://www.math.ku.dk/english/calendar/events/women-in-math/#:~:text=To%20mark%20this%20date%20and,May%2017%2C%202024%20in%20Copenhagen), May 17, 2024, Copehagen, Denmark. <br />
 * [Scientific Quantum Conference](https://dqc.dk/event/scientific-quantum-conference/), Apr 15, 2024, Odense, Denmark.
 
-<br />
 <hr />	
 
 ### Funding Acknowledgement
