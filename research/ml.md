@@ -3,8 +3,6 @@ layout: default
 title: research
 description: Research
 ---
-
-
 ### Mathematical framework of machine learning
 
 * Diffusion Maps: Using the Semigroup Property for Parameter Tuning. <br />
