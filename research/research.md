@@ -9,20 +9,22 @@ For a full list of publications, see my Google Scholar [[profile]](https://schol
 
 For papers organized according to categories, click on the links below. 
 
-[Quantum computing](../research/quantum.html) <br />
-[Biological shape analysis](../research/shape.html) <br />
-[Mathematical framework of machine learning](../research/ml.html) <br />
-[Other R&D applications](../research/other.html)
+* [Quantum computing](../research/quantum.html) <br />
+* [Biological shape analysis](../research/shape.html) <br />
+* [Mathematical framework of machine learning](../research/ml.html) <br />
+* [Other R&D applications](../research/other.html)
 
+<br />
 <hr />	
 
 ### Talks
 
 I have recently given, or will soon give, a talk at:
 
-May 17, 2024. [International Conference for Woman in Mathematics](https://www.math.ku.dk/english/calendar/events/women-in-math/#:~:text=To%20mark%20this%20date%20and,May%2017%2C%202024%20in%20Copenhagen), Copehagen, Denmark. <br />
-Apr 15, 2024. [Scientific Quantum Conference](https://dqc.dk/event/scientific-quantum-conference/), Odense, Denmark.
+* [International Conference for Woman in Mathematics](https://www.math.ku.dk/english/calendar/events/women-in-math/#:~:text=To%20mark%20this%20date%20and,May%2017%2C%202024%20in%20Copenhagen), May 17, 2024, Copehagen, Denmark. <br />
+* [Scientific Quantum Conference](https://dqc.dk/event/scientific-quantum-conference/), Apr 15, 2024, Odense, Denmark.
 
+<br />
 <hr />	
 
 ### Funding Acknowledgement
