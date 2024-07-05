@@ -28,6 +28,7 @@ nav ul li, footer ul li {
     background: rgba(255,255,255,1)
 }
 
+
 a {
     text-decoration: none;
     color: #000;
@@ -39,6 +40,10 @@ a:hover {
 
 ul, ol, table, pre, dl {
   margin:0 0 0px;
+}
+
+ul li {
+    margin-bottom: 5px;
 }
 
 p{
