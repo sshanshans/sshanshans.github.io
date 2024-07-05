@@ -14,7 +14,6 @@ For papers organized according to categories, click on the links below.
 * [Mathematical framework of machine learning](../research/ml.html) <br />
 * [Other R&D applications](../research/other.html)
 
-<br>
 <hr />	
 
 ### Talks
