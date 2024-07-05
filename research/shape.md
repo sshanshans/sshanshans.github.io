@@ -25,7 +25,7 @@ Ethan Fulwood, *Shan Shan*, Julia Winchester, Henry Kirveslahti, Robert Ravier, 
 Ethan Fulwood, *Shan Shan*, Julia Winchester, Henry Kirveslahti, Tingran Gao, Doug Boyer, Ingrid Daubechies (2020). <br />
 [[journal]](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2020.34.s1.03161)  <br />
 
-* **ariaDNE: A robustly implemented algorithm for Dirichlet energy of the normal.** <br />
+* ariaDNE: A robustly implemented algorithm for Dirichlet energy of the normal. <br />
 *Methods in Ecology and Evolution*, 10(4), 541-552. <br />
 *Shan Shan*, Shahar Z. Kovalsky, Julie M. Winchester, Doug M. Boyer, Ingrid Daubechies (2019). <br />
 [[journal]](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13148), [[code]](/articles/ariadne.html)  <br />
