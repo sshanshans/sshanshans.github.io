@@ -4,6 +4,8 @@ title: research
 description: Research
 ---
 
+### Mathematical Framework of Machine Learning
+
 * **Diffusion Maps: Using the Semigroup Property for Parameter Tuning.** <br />
 *Theoretical Physics, Wavelets, Analysis, Genomics*. Springer, 409-424.  <br />
 *Shan Shan*, Ingrid Daubechies (2023).  <br />
