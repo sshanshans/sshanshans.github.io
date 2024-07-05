@@ -9,7 +9,6 @@ description: Research
 I'm always on the lookout for great students to work with me.
 
 **For PhD students and postdocs** 
-
 If you are interested in applying for external funding with me as your supervisor (e.g., Marie Curie Fellowship, Danish Data Science Academy Fellowship, DeiC Quantum Fellowship, or fellowships from your home country), please email me (i) an up-to-date CV and list of publications (ii) a brief description of your research interest, and how it may connect to my current research directions.
 
 **For master and bachelor students** 
