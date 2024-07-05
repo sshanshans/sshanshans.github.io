@@ -3,7 +3,7 @@ layout: default
 title: research
 description: Research
 ---
-### Biological Shape Analysis
+### Biological shape analysis
 
 * Examining the shape and size of female and male genitalia in snakes using three-dimensional geometric morphometrics. <br />
 *Biological Journal of the Linnean Society*, 136.3, 466-476. <br />
