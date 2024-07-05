@@ -4,7 +4,7 @@ title: me
 description: profile
 ---
 
-## About me
+### About me
 ![me](/images/sshan.jpg)
 
 I am Shan Shan. My name in Chinese characters is 单珊. I am an assistant professor at the Centre of Quantum Mathematics and the Department of Mathematics and Computer Science of Syddansk Universitet. I work on quantum computation, shape analysis, and the mathematical framework for machine learning. 
