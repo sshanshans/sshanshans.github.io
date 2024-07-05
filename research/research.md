@@ -13,6 +13,7 @@ For a full list of publications, see my Google Scholar [[profile]](https://schol
 * Other R&D applications [(link)](../research/other.html)
 
 <hr />	
+
 ### Recent Talks
 
 <hr />	
