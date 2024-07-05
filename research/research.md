@@ -12,7 +12,10 @@ For a full list of publications, see my [Google Scholar profile](https://scholar
 * Mathematical framework of machine learning [(link)](../research/ml.html)
 * Other R&D applications [(link)](../research/other.html)
 
+<hr />	
 ### Recent Talks
+
+<hr />	
 
 ### Funding Acknowledgement
 My research is/was generously supported by
