@@ -11,7 +11,7 @@ Mathematical framework of machine learning
 <hr />
 
 ### Open positions 
-If you are interested in working with me, please find the information [here](../research/open.md)
+If you are interested in working with me, please find the information [here](../research/open.html)
 <hr />	
 
 ### Events and News
