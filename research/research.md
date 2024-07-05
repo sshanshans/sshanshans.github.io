@@ -13,6 +13,7 @@ For papers organized according to categories, click on the links below.
 * Biological shape analysis [[link]](../research/shape.html)
 * Mathematical framework of machine learning [[link]](../research/ml.html)
 * Other R&D applications [[link]](../research/other.html)
+
 <br />
 
 <hr />	
