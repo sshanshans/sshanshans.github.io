@@ -10,7 +10,7 @@ Shape analysis and learning via geometry and statistics <br />
 Mathematical framework of machine learning
 <hr />
 
-### Open positions 
+### Open Positions 
 If you are interested in working with me, please find the information [(here)](../research/open.html).
 <hr />	
 
