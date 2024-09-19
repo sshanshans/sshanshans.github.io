@@ -5,18 +5,14 @@ description: Research
 ---
 
 ### Papers
-For a full list of publications, see my Google Scholar profile [(here)](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). <br />
-For papers organized according to categories, click on the links below. 
-
-[Quantum computing](../research/quantum.html) <br />
-[Biological shape analysis](../research/shape.html) <br />
-[Mathematical framework of machine learning](../research/ml.html) <br />
-[Other R&D applications](../research/other.html) <br />
+Full list of publications: [(Google Scholar)](https://scholar.google.com/citations?user=ZJz-eI0AAAAJ&hl=en&authuser=1). <br />
 
 <hr />	
 
 ### Recent or upcoming talks
-
+Workshop in honor of Ingrid Daubechies, Sep 21, 2024 <br />
+[bigQ Center for Macroscopic Quantum States](https://www.bigq.fysik.dtu.dk/about-bigq) at Danmarks Tekniske Universitet, Aug 22, 2024  <br />
+[Research Center of Mathematics and Interdisciplinary Sciences](https://www.mis.sdu.edu.cn/index.htm) at Shandong University, July 14, 2024 <br />
 [International Conference for Woman in Mathematics](https://www.math.ku.dk/english/calendar/events/women-in-math/#:~:text=To%20mark%20this%20date%20and,May%2017%2C%202024%20in%20Copenhagen), May 17, 2024, Copehagen, Denmark. <br />
 [Scientific Quantum Conference](https://dqc.dk/event/scientific-quantum-conference/), Apr 15, 2024, Odense, Denmark.
 
