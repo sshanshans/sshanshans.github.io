@@ -5,7 +5,7 @@ description: Teaching
 ---
 ### Teaching
 
-MM571: Førsteårsprojekt for anvendt matematik og matematik, Fall 2024
+AI503: Calculus, Fall 2024
 
 
 <br/>
