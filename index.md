@@ -15,7 +15,7 @@ If you are interested in working with me, please find the information [(here)](.
 <hr />	
 
 ### Events and news
-I will be at the [CLUSTEC](https://clustec.eu/) theory camp at the Technical University of Denmark from Aug 26 to Sep 04, 2024, and the 3rd CLUSTEC general assembly will be held at the Centre of Quantum Mathematics, SDU from Sep 05 to Sep 06, 2024. 
+The TopQC2X workshop will be held at QM, SDU on Oct23-25, 2024. 
  
 <br />
 <br />
