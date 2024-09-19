@@ -16,13 +16,19 @@ If you are interested in doing a thesis, independent project, or summer internsh
 
 <hr />	
 
-### Current group members
+### Current mentees
 
 Felix Risbro Hjerrild (SDU bachelor student in applied math) <br />	
 Kristoffer Hagedorn Larsen (SDU bachelor student in applied math) 
 
 <hr />	
 
-### Alumni
+### Previous mentees
 
 Jakob Blaabjerg Møller (SDU master student in data science, 2023-2024, co-supervised with Jørgen Ellegaard Andersen)
+
+<br />
+<br />
+<br />
+<br />
+<br />
