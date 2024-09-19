@@ -15,7 +15,7 @@ If you are interested in working with me, please find the information [(here)](.
 <hr />	
 
 ### Events and news
-The TopQC2X workshop will be held at QM, SDU on Oct23-25, 2024. 
+The TopQC2X workshop will be held at QM, SDU on Oct 23-25, 2024. 
  
 <br />
 <br />
