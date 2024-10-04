@@ -30,7 +30,7 @@ If you are interested in doing a thesis, independent project, or summer internsh
   Oct 2024 - 
 * Tobias Fiskbæk Juul <br />
   SUD master student in BMB <br />
-  co-supervisor: with Maria Timofeeva
+  co-supervisor: with Maria Timofeeva <br />
   Oct 2024 - 
 
 <hr />	
