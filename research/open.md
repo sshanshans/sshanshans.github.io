@@ -18,15 +18,30 @@ If you are interested in doing a thesis, independent project, or summer internsh
 
 ### Current mentees
 
-Felix Risbro Hjerrild (SDU bachelor student in applied math) <br />	
-Kristoffer Hagedorn Larsen (SDU bachelor student in applied math) 
+* Felix Risbro Hjerrild <br />	
+  SDU bachelor student in applied math <br />
+  Jan 2024 -
+* Kristoffer Hagedorn Larsen <br />
+  SDU bachelor student in applied math <br />
+  Jan 2024 -
+* Asmus Tørsleff <br />
+  KU/DTU master student in quantum information <br />
+  co-supervisors: Ulrik Lund Andersen and Jørgen Ellegaard Andersen <br />
+  Oct 2024 - 
+* Tobias Fiskbæk Juul <br />
+  SUD master student in BMB <br />
+  co-supervisor: with Maria Timofeeva
+  Oct 2024 - 
 
 <hr />	
 
 ### Previous mentees
 
-Jakob Blaabjerg Møller (SDU master student in data science, 2023-2024, co-supervised with Jørgen Ellegaard Andersen)
-
+* Jakob Blaabjerg Møller <br />
+  SDU master student in data science <br />
+  co-supervisor: Jørgen Ellegaard Andersen <br />
+  Jan 2023- May 2024
+  
 <br />
 <br />
 <br />
