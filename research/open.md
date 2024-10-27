@@ -35,7 +35,7 @@ If you are interested in doing a thesis, independent project, or summer internsh
 
 * **Jakob Blaabjerg Møller** (Jan 2023- May 2024) <br />
   SDU Master student in Data Science <br />
-  co-supervisor: Jørgen Ellegaard Andersen <br />
+  Co-supervisor: Jørgen Ellegaard Andersen <br />
   
 <br />
 <br />
