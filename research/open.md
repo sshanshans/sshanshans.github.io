@@ -20,11 +20,14 @@ If you are interested in doing a thesis, independent project, or summer internsh
 
 * **Felix Risbro Hjerrild** (Jan 2024 -) <br />	
   SDU Bachelor student in Applied Mathematics <br />
+  <br />
 * **Kristoffer Hagedorn Larsen** (Jan 2024 -) <br />
   SDU Bachelor student in Applied Mathematics <br />
+  <br />
 * **Asmus Tørsleff** (Oct 2024 -) <br />
   KU/DTU Master student in Quantum Information <br />
   Co-supervisors: Ulrik Lund Andersen and Jørgen Ellegaard Andersen <br />
+  <br />
 * **Tobias Fiskbæk Juul** (Oct 2024 -) <br />
   SDU Master student in Biochemistry and Molecular Biology <br />
   Co-supervisor: Maria Timofeeva <br />
