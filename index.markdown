@@ -9,7 +9,7 @@ Associate Professor\\
 [Department of Mathematics and Computer Science](https://www.sdu.dk/en/om-sdu/institutter-centre/imada_matematik_og_datalogi)\\
 [University of Southern Denmark](https://www.sdu.dk/en)
 
-[Papers](../papers.html), [Talks](../talks)
+[Papers](../papers.html), [Talks](../talks), [CV](../ss-full-cv.pdf)
 
 ### Research interests 
 Quantum algorithms and its application\\
@@ -24,5 +24,6 @@ Mathematical framework of machine learning
 Email: shan-qm at imada dot sdu dot dk\\
 Office: bøgene ø11-403c-1\\
 Github: sshanshans\\
-Orcid: 0000-0002-2880-0566
+Orcid: 0000-0002-2880-0566\\
+[*My smiling face](../sshan.jpg)
 
