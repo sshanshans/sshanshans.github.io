@@ -1,0 +1,56 @@
+---
+layout: home
+title: Publications
+---
+
+<h1>Publications</h1>
+
+<p> All papers are listed in the chronological order of their creation. You can also use the search bar to find papers based on their categories.  </p>
+
+<input type="text" id="searchBox" onkeyup="searchTable()" placeholder="Search for papers...">
+
+<table id="publicationsTable" border="1" style="width: 100%; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="width: 5%">Year</th>
+            <th style="width: 35%;">Title</th>
+            <th style="width: 25%;">Authors</th>
+            <th style="width: 20%;">Journal/Preceedings/Book/Preprint</th>
+            <th style="width: 10%;">Category</th>
+            <th style="width: 5%;">Links</th>
+        </tr>
+    </thead>
+    <tbody>
+	{% assign sorted_pubs = site.data.publications | sort: "year" | reverse %}
+        {% for pub in sorted_pubs %}
+        <tr>
+            <td>{{ pub.year }}</td>
+            <td style="word-wrap: break-word; white-space: normal;">{{ pub.title }}</td>
+            <td style="word-wrap: break-word; white-space: normal;">{{ pub.authors }}</td>
+            <td style="word-wrap: break-word; white-space: normal;">{{ pub.journal }}</td>
+            <td>{{ pub.category }}</td>
+            <td>
+                {% if pub.link %}
+                <a href="{{ pub.link }}" target="_blank">[HTML]</a>
+                {% else %}
+                N/A
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+<script>
+function searchTable() {
+    let input = document.getElementById("searchBox").value.toLowerCase();
+    let table = document.getElementById("publicationsTable");
+    let rows = table.getElementsByTagName("tr");
+
+    for (let i = 1; i < rows.length; i++) {
+        let text = rows[i].textContent.toLowerCase();
+        rows[i].style.display = text.includes(input) ? "" : "none";
+    }
+}
+</script>
+

@@ -1,0 +1,71 @@
+- year: 2022
+  title: "Examining the shape and size of female and male genitalia in snakes using three-dimensional geometric morphometrics"
+  authors: "Genesis Lara Granados, Juliet Greenwood, Stephen Secor, Shan Shan, Brandon Hedrick, Patricia Brennan"
+  journal: "Biological Journal of the Linnean Society, 136(3), 466-476"
+  category: "Shape Analysis"
+  link: "https://academic.oup.com/biolinnean/article/136/3/466/6590757"
+
+- year: 2021
+  title: "SlicerMorph: An open and extensible platform to retrieve, visualize and analyse 3D morphology"
+  authors: "Sara Rolfe, Steve Pieper, Arthur Porto, Kelly Diamond, Julie Winchester, Shan Shan, Henry Kirveslahti, Doug Boyer, Adam Summers, Murat Maga"
+  journal: "Methods in Ecology and Evolution, 12, 1816-1825"
+  category: "Shape Analysis"
+  link: "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13669"
+
+- year: 2020
+  title: "Insights from macroevolutionary modelling and ancestral state reconstruction into the radiation and historical dietary ecology of Lemuriformes (Primates, Mammalia)"
+  authors: "Ethan Fulwood, Shan Shan, Julia Winchester, Henry Kirveslahti, Robert Ravier, Shahar Kovalsky, Ingrid Daubechies, Doug Boyer"
+  journal: "BMC Ecology and Evolution, 21(1), 1-13"
+  category: "Shape Analysis"
+  link: "https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-021-01793-x"
+
+- year: 2020
+  title: "Dietary adaptation in lemurs, analyzed using new approaches to describing functional properties of tooth shape"
+  authors: "Ethan Fulwood, Shan Shan, Julia Winchester, Henry Kirveslahti, Tingran Gao, Doug Boyer, Ingrid Daubechies"
+  journal: "The FASEB Journal, 34(S1), 1-1"
+  category: "Shape Analysis"
+  link: "https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2020.34.s1.03161"
+
+- year: 2019
+  title: "ariaDNE: A robustly implemented algorithm for Dirichlet energy of the normal"
+  authors: "Shan Shan, Shahar Z. Kovalsky, Julie M. Winchester, Doug M. Boyer, Ingrid Daubechies"
+  journal: "Methods in Ecology and Evolution, 10(4), 541-552"
+  category: "Shape Analysis"
+  link: "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.13148"
+  code: "/articles/ariadne.html"
+
+- year: 2024
+  title: "'He Has the Whole Package: Lyrics, Melodies, Enigmatic, mythical': Images of Bob Dylan – Results of Questionnaire"
+  authors: "Jørgen Ellegaard Andersen, Anne-Marie Mai, Jakob Blaabjerg Møller(+), Shan Shan"
+  journal: "Aktualitet - Litteratur, Kultur Og Medier, s. 1-33"
+  category: "Other R&D"
+  link: "https://tidsskrift.dk/aktualitet/article/view/145362"
+
+- year: 2023
+  title: "Performance of Enhanced Liver Fibrosis test, FIB-4, and NAFLD fibrosis score in a screening study of 3,387 participants"
+  authors: "Maria Kjaergaard, Katrine Prier Lindvig, Katrine Holtz Thorhauge, Peter Andersen, Johanne Kragh Hansen, Nanna Kastrup, Jane Møller Jensen, Camilla Dalby Hansen, Stine Johansen, Mads Israelsen, Nikolaj Torp, Morten Beck Trelle, Shan Shan, Sönke Detlefsen, Steen Antonsen, Jørgen Ellegaard Andersen, Isabel Graupera, Pere Ginés, Maja Thiele, Aleksander Krag"
+  journal: "Journal of Hepatology, 79(2), 277-286"
+  category: "Other R&D"
+  link: "https://pubmed.ncbi.nlm.nih.gov/37088311/"
+
+- year: 2023
+  title: "Diffusion Maps: Using the Semigroup Property for Parameter Tuning"
+  authors: "Shan Shan, Ingrid Daubechies"
+  journal: "Theoretical Physics, Wavelets, Analysis, Genomics. Springer, 409-424"
+  category: "Machine Learning"
+  link: "https://link.springer.com/book/10.1007/978-3-030-45847-8"
+
+- year: 2025
+  title: "Using Gaussian Boson Samplers to Approximate Gaussian Expectation Problems"
+  authors: "Jørgen Ellegaard Andersen, Shan Shan"
+  journal: "arXiv:2502.19336"
+  category: "Quantum"
+  link: "https://arxiv.org/abs/2502.19336"
+
+- year: 2025
+  title: "Estimating the Percentage of GBS Advantage in Gaussian Expectation Problems"
+  authors: "Jørgen Ellegaard Andersen, Shan Shan"
+  journal: "arXiv:2502.19362"
+  category: "Quantum"
+  link: "https://arxiv.org/abs/2502.19362"
+
